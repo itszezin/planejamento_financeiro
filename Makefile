@@ -1,3 +1,2 @@
 build-image:
-    docker build -t planejamento_financeiro/finance . 
-    
+    docker build -t planejamento_financeiro/finance .
